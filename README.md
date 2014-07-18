@@ -8,6 +8,9 @@ we added a few touches of our own. Most noticeably, you can play the game with a
 * Remote Web Browser
 * Local Web Browser
 
+Copyright
+===============
+
 Copyright (c) 2014, Taylor Gibb and Chris Fraser
 All rights reserved.
 
