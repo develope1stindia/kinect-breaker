@@ -1,0 +1,43 @@
+﻿body {
+    font-family: '8-bit';
+    margin: 0;
+}
+
+#address {
+    color: #dfdfdf;
+    height: 100%;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+}
+
+#address h1 {
+    font-size: 65px;
+    margin-top: 10px;
+}
+
+#wrapper {
+    height: 100%;
+    width: 100%;
+}
+
+#score {
+    font-size: 20px;
+    position: fixed;
+    right: 1%;
+    top: 4%;
+}
+
+
+#kinectCanvas {
+    background-color: #1D1D1D;
+    vertical-align: top;
+}
+
+
+@font-face {
+    font-family: '8-bit';
+    font-style: normal;
+    font-weight: normal;
+    src: url('/Content/fonts/8-bit.ttf');
+}
